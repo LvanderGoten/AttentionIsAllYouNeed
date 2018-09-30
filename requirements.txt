@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+tqdm
+spacy
+beautifulsoup4
+tensorflow-gpu
+pyyaml
